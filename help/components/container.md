@@ -61,7 +61,7 @@ The Allowed Components tab functions in the same way as the tab of the same name
 
 ### Default Components Tab {#default-components-tab}
 
-The Default Components tab is used to define which component is added to the component when a particular asset type is dropped on the container, similar to [how default components are defined on the page template](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/authoring/features/templates.html).
+The Default Components tab is used some type here to define which component is added to the component when a particular asset type is dropped on the container, similar to [how default components are defined on the page template](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/authoring/features/templates.html).
 
 ### Responsive Settings Tab {#responsive-settings-tab}
 
