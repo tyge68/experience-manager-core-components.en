@@ -115,3 +115,5 @@ For details about the support of component customizations, see the [Customizing 
 Since the Foundation Components have served as a basis of so much project development over many versions, they will continue to be supported into the foreseeable future.
 
 However, Adobe's development emphasis has shifted to the Core Components and new features will be added to them, whereas [nearly all Foundation Components have been deprecated with AEM 6.5](https://docs.adobe.com/content/help/en/experience-manager-65/authoring/siteandpage/default-components-foundation.html) and only bug fixes will be made to the Foundation Components going forward.
+
+Test added here
